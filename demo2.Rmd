@@ -1,6 +1,6 @@
 ---
 title: "demo2"
-author: "Orlando Harrisson DAVID DAVIDDDD"
+author: "Orlando Harrisson DAVID DAVIDDDD est un peu lent"
 date: "1 juillet 2019"
 output: html_document
 ---
