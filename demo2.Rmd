@@ -1,6 +1,6 @@
 ---
 title: "demo2"
-author: "Orlando Harrisson"
+author: "Orlando Harrisson DAVID"
 date: "1 juillet 2019"
 output: html_document
 ---
